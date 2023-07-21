@@ -4,4 +4,4 @@ def big_letters(text):
 
 def big_first_letters(text):
     """Small first letters are being big"""
-    return text.title
+    return text.title()
